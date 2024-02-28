@@ -2,10 +2,10 @@
  * Classes
  */
 
-function greet3() {
+export function greet3() {
   class Person {
     name: string;
-    constructor(name) {
+    constructor(name: string) {
       this.name = name;
     }
   
@@ -18,4 +18,4 @@ function greet3() {
   john.greet(); // Hello, my name is John.
 }
 
-greet3()
+// greet3()
