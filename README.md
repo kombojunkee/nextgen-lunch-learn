@@ -1,35 +1,36 @@
-# NextGen Lunch and Learn
-Welcome to the NextGen Lunch and Learn GitHub repository! This repository is your gateway to mastering the latest advancements in web development technologies. Designed as a comprehensive course, NextGen Lunch and Learn focuses on teaching ES6, ES7, ES8, Typescript, Sanity.io, and NextJS through a series of structured lessons.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Features:
-ES6, ES7, ES8 Lessons:
-Explore the evolution of JavaScript with in-depth lessons on ES6, ES7, and ES8 features. From arrow functions to async/await, you'll master the modern syntax that powers contemporary web development.
+## Getting Started
 
-## Typescript Fundamentals:
-Dive into the world of statically typed JavaScript with our comprehensive TypeScript lessons. Learn how to leverage TypeScript's powerful features to write safer, more maintainable code.
+First, run the development server:
 
-## Sanity.io Integration:
-Discover how to build robust content management systems with Sanity.io. Our lessons guide you through the process of integrating Sanity.io into your Next.js applications, empowering you to create dynamic and scalable content-driven websites.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## NextJS Essentials:
-Unleash the full potential of Next.js with our NextJS Essentials lessons. From server-side rendering to API routes, you'll gain a deep understanding of Next.js and its role in modern web development.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Branches:
-This repository contains various feature branches, each dedicated to a specific lesson in the NextGen Lunch and Learn course. As you progress through the course, you'll explore different branches, each focusing on a particular topic or technology.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## How to Use:
-To get started, clone this repository to your local machine and checkout the branch corresponding to the lesson you're interested in. Each branch contains detailed documentation and example code to help you grasp the concepts covered in that lesson.
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Whether you're a seasoned developer looking to stay up-to-date with the latest technologies or a newcomer eager to learn, NextGen Lunch and Learn provides a comprehensive and accessible learning experience for all skill levels.
+## Learn More
 
-Join us on the journey to mastering modern web development. Happy coding!
+To learn more about Next.js, take a look at the following resources:
 
-## Contributors:
-Kombo Junkee
-Matay
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Feel free to contribute to the repository by submitting pull requests, reporting issues, or sharing your insights and experiences with the community. Together, we can make NextGen Lunch and Learn the ultimate resource for mastering the next generation of web development technologies.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## Deploy on Vercel
 
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
