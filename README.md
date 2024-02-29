@@ -6,9 +6,9 @@ If you're using VS Code, you can download the Code Runner extension to see the r
 
 If you'd like to challenge yourself, create a new component in NextJS/React and call the functions directly.
 
-## Lesson Challenges
+## ES6 Challenges
 
-## Challenge 1: Secret Santa Gift Assigner
+## Challenge 1: Secret Santa Gift Assigner (Intermediate)
 
 You're tasked with creating a Secret Santa gift assignment program using JavaScript and ES6 features.
 
@@ -26,8 +26,7 @@ Here's a high-level plan to get you started:
 - Implement a function that assigns each participant a Secret Santa partner, ensuring that no participant is assigned to themselves and that no duplicate assignments occur.
 - Generate personalized messages using template literals to inform participants about their assigned Secret Santa partner and any additional details.
 
-
-## Challenge 2: Quiz Game
+## Challenge 2: Quiz Game (Beginner)
 
 Create a simple quiz game where players are presented with multiple-choice questions and must select the correct answer. The game should keep track of the player's score and provide feedback at the end.
 
@@ -44,7 +43,7 @@ Here's a plan to get you started:
 - Keep track of the player's score and provide feedback at the end of the quiz.
 
 
-## Challenge 3: Restaurant Bill Calculator
+## Challenge 3: Restaurant Bill Calculator (Beginner)
 
 Build a simple restaurant bill calculator using JavaScript and ES6 features. The calculator should accept multiple items with prices, apply any discounts, and calculate the total bill.
 
@@ -54,7 +53,7 @@ Requirements:
 - Implement the spread operator to calculate the total bill including discounts.
 - Use template literals to display the bill breakdown.
 
-## Challenge 4: Weather Forecast App
+## Challenge 4: Weather Forecast App (Beginner)
 
 Build a weather forecast application using JavaScript and ES6 Promises. The application should fetch weather data from a weather API and display it to the user.
 
@@ -69,7 +68,7 @@ Here's a basic plan to get you started:
 - Handle the Promise resolution to display weather information to the user.
 - Implement error handling using Promises to manage network errors or invalid responses from the API.
 
-## Challenge 5: Math Utility Module
+## Challenge 5: Math Utility Module (Beginner)
 
 Create a module named mathUtils that exports functions for performing basic math operations like addition, subtraction, multiplication, and division.
 
@@ -77,7 +76,7 @@ Requirements:
 - Implement each math operation as a separate function in the module.
 - Utilize ES6 modules to organize and export/import code.
 
-## Challenge 6: Copy Machine
+## Challenge 6: Copy Machine (Beginner)
 
 Create a function called copyMachine that makes copies of items. The function should accept any number of arguments and return an array containing copies of each item.
 
@@ -86,6 +85,81 @@ Requirements:
 - Implement a function to make copies of provided items.x
 - Return an array containing copies of each item.
 
+# Typescript Challenges
+
+## Challenge 1: To-Do List Application (Intermediate)
+
+Create a to-do list application using TypeScript where users can add tasks, mark tasks as completed, and remove tasks from the list.
+
+Requirements:
+- Define interfaces to represent the structure of a task including properties like name, description, and status.
+- Implement a class named TodoList to manage the to-do list. The class should have methods to add tasks, mark tasks as completed, remove tasks, and display all tasks.
+- Use TypeScript to define types for task properties and function parameters, ensuring type safety.
+- Utilize modern ES6 features like arrow functions, template literals, and array methods throughout your code.
+
+Here's a plan to get you started:
+- Define an interface named Task to represent the structure of a task with properties like name, description, and status.
+- Implement a class named TodoList with methods to add tasks, mark tasks as completed, remove tasks, and display all tasks.
+- Use TypeScript types for function parameters and return types for type safety.
+- Test the functionality of the to-do list application by adding tasks, marking tasks as completed, and displaying the list of tasks.
+
+## Challenge 2: Online Bookstore (Advanced)
+
+Develop an online bookstore application using TypeScript where users can browse books, add them to their cart, and proceed to checkout.
+
+Requirements:
+- Define interfaces to represent the structure of a book including properties like title, author, price, and quantity.
+- Implement a class named Bookstore to manage the bookstore inventory. The class should have methods to add books, remove books, search for books by title or author, and display all books.
+- Create a shopping cart functionality where users can add books, remove books, and calculate the total price.
+- Utilize TypeScript to define types for book properties and function parameters, ensuring type safety.
+
+Here's a plan to get you started:
+- Define an interface named Book to represent the structure of a book with properties like title, author, price, and quantity.
+- Implement a class named Bookstore with methods to add books, remove books, search for books, and display the inventory.
+- Create a class named ShoppingCart to manage the user's shopping cart. Implement methods to add books, remove books, calculate the total price, and proceed to checkout.
+- Utilize TypeScript types for function parameters and return types for type safety.
+
+## Challenge 3: Recipe Manager (Intermediate)
+
+Develop a recipe manager application using TypeScript where users can search for recipes, view recipe details, and save their favorite recipes for later.
+
+Requirements:
+- Define interfaces to represent the structure of a recipe including properties like name, ingredients, instructions, and category.
+- Implement a class named RecipeManager to manage the recipes. The class should have methods to add recipes, remove recipes, search for recipes by name or category, and display all recipes.
+- Create a user interface where users can interact with the application, search for recipes, view recipe details, and save their favorite recipes.
+- Utilize TypeScript to define types for recipe properties and function parameters, ensuring type safety.
+
+Here's a plan to get you started:
+- Define an interface named Recipe to represent the structure of a recipe with properties like name, ingredients, instructions, and category.
+- Implement a class named RecipeManager with methods to add recipes, remove recipes, search for recipes, and display the recipe collection.
+- Create a user interface using HTML and CSS for users to interact with the application.
+- Use TypeScript types for function parameters and return types for type safety.
+
+## Challenge 4: Task Tracker (Beginner)
+
+Build a task tracker application using TypeScript where users can manage their tasks, mark them as completed, and organize tasks into different categories.
+
+Requirements:
+Define interfaces to represent the structure of a task including properties like name, description, status, and category.
+Implement a class named TaskTracker to manage the tasks. The class should have methods to add tasks, remove tasks, mark tasks as completed, and display tasks by category.
+Create a user interface where users can interact with the application, add tasks, mark tasks as completed, and organize tasks by category.
+Utilize TypeScript to define types for task properties and function parameters, ensuring type safety.
+
+## Challenge 5: Music Playlist Manager (Advanced)
+
+Create a music playlist manager application using TypeScript where users can organize their favorite songs into playlists and play them.
+
+Requirements:
+- Define interfaces to represent the structure of a song including properties like title, artist, duration, and genre.
+- Implement a class named PlaylistManager to manage the playlists. The class should have methods to create playlists, add songs to playlists, remove songs from playlists, and play songs.
+- Create a user interface where users can interact with the application, create playlists, add songs, remove songs, and play music.
+- Utilize TypeScript to define types for song properties and function parameters, ensuring type safety.
+
+Here's a plan to get you started:
+- Define an interface named Song to represent the structure of a song with properties like title, artist, duration, and genre.
+- Implement a class named PlaylistManager with methods to create playlists, add songs, remove songs, and play music.
+- Design a user interface using HTML and CSS for users to interact with the application.
+- Use TypeScript types for function parameters and return types for type safety.
 
 ## Learn More
 
