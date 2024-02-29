@@ -4,7 +4,7 @@
 
 function restSpreadOperators() {
   // Rest Operator
-  function sum(...numbers: number[]) {
+  function sum(...numbers) {
     return numbers.reduce((acc, num) => acc + num, 0);
   }
 
