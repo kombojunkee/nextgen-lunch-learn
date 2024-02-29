@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # misc
-/app/week/1/exercises/answers/*
+/src/app/week/1/exercises/answers/*
