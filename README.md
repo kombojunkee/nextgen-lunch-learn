@@ -12,6 +12,13 @@ If you'd like to challenge yourself, create a new component in NextJS/React and 
 
 You're tasked with creating a Secret Santa gift assignment program using JavaScript and ES6 features.
 
+Prerequisites:
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Destructuring](https://www.youtube.com/watch?v=cdjpLpYSyfY&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=4)
+
+
 Requirements:
 - Use let and const declarations to define variables where appropriate, ensuring block-scoped variables.
 - Implement arrow functions for concise function syntax and lexical scoping.
@@ -30,6 +37,12 @@ Here's a high-level plan to get you started:
 
 Create a simple quiz game where players are presented with multiple-choice questions and must select the correct answer. The game should keep track of the player's score and provide feedback at the end.
 
+Prerequisites:
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Destructuring](https://www.youtube.com/watch?v=cdjpLpYSyfY&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=4)
+
 Requirements:
 - Use let and const declarations to define variables where appropriate, ensuring block-scoped variables.
 - Implement arrow functions for concise function syntax and lexical scoping.
@@ -47,6 +60,13 @@ Here's a plan to get you started:
 
 Build a simple restaurant bill calculator using JavaScript and ES6 features. The calculator should accept multiple items with prices, apply any discounts, and calculate the total bill.
 
+Prerequisites:
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Rest Operator](https://www.youtube.com/watch?v=3UM0alVYv1E&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=6)
+- [Spread Operator](https://www.youtube.com/watch?v=qNVGlS0cG6A&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=7)
+
 Requirements:
 - Use default parameters to set a default discount value for items if none is provided.
 - Utilize the rest parameter to accept a variable number of item prices.
@@ -56,6 +76,12 @@ Requirements:
 ## Challenge 4: Weather Forecast App (Beginner)
 
 Build a weather forecast application using JavaScript and ES6 Promises. The application should fetch weather data from a weather API and display it to the user.
+
+Prerequisites:
+- [Promise](https://www.youtube.com/watch?v=D7CG_UWvMzE&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=10)
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
 
 Requirements:
 - Use the fetch API to make asynchronous requests to a weather API (e.g., OpenWeatherMap API).
@@ -72,6 +98,11 @@ Here's a basic plan to get you started:
 
 Create a module named mathUtils that exports functions for performing basic math operations like addition, subtraction, multiplication, and division.
 
+Prerequisites:
+- [Modules](https://www.youtube.com/watch?v=LUyrU0z0S04&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=9)
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+
 Requirements:
 - Implement each math operation as a separate function in the module.
 - Utilize ES6 modules to organize and export/import code.
@@ -79,6 +110,12 @@ Requirements:
 ## Challenge 6: Copy Machine (Beginner)
 
 Create a function called copyMachine that makes copies of items. The function should accept any number of arguments and return an array containing copies of each item.
+
+Prerequisites:
+- [Rest Operator](https://www.youtube.com/watch?v=3UM0alVYv1E&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=6)
+- [Spread Operator](https://www.youtube.com/watch?v=qNVGlS0cG6A&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=7)
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
 
 Requirements:
 - Utilize the spread operator to create copies of items.
@@ -90,6 +127,13 @@ Requirements:
 ## Challenge 1: To-Do List Application (Intermediate)
 
 Create a to-do list application using TypeScript where users can add tasks, mark tasks as completed, and remove tasks from the list.
+
+Prerequisites:
+- [Typescript Types System](https://www.youtube.com/watch?v=8OsSLCGcv28&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=12)
+- [Classes](https://www.youtube.com/watch?v=H61Jr7OzEpw&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=8)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
 
 Requirements:
 - Define interfaces to represent the structure of a task including properties like name, description, and status.
@@ -107,6 +151,13 @@ Here's a plan to get you started:
 
 Develop an online bookstore application using TypeScript where users can browse books, add them to their cart, and proceed to checkout.
 
+Prerequisites:
+- [Typescript Types System](https://www.youtube.com/watch?v=8OsSLCGcv28&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=12)
+- [Classes](https://www.youtube.com/watch?v=H61Jr7OzEpw&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=8)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
+
 Requirements:
 - Define interfaces to represent the structure of a book including properties like title, author, price, and quantity.
 - Implement a class named Bookstore to manage the bookstore inventory. The class should have methods to add books, remove books, search for books by title or author, and display all books.
@@ -123,6 +174,13 @@ Here's a plan to get you started:
 
 Develop a recipe manager application using TypeScript where users can search for recipes, view recipe details, and save their favorite recipes for later.
 
+Prerequisites:
+- [Typescript Types System](https://www.youtube.com/watch?v=8OsSLCGcv28&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=12)
+- [Classes](https://www.youtube.com/watch?v=H61Jr7OzEpw&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=8)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
+
 Requirements:
 - Define interfaces to represent the structure of a recipe including properties like name, ingredients, instructions, and category.
 - Implement a class named RecipeManager to manage the recipes. The class should have methods to add recipes, remove recipes, search for recipes by name or category, and display all recipes.
@@ -138,6 +196,14 @@ Here's a plan to get you started:
 ## Challenge 4: Music Playlist Manager (Advanced)
 
 Create a music playlist manager application using TypeScript where users can organize their favorite songs into playlists and play them.
+
+Prerequisites:
+- [Generics](https://www.youtube.com/watch?v=AkcL6bgnS7c&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=13)
+- [Typescript Types System](https://www.youtube.com/watch?v=8OsSLCGcv28&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=12)
+- [Classes](https://www.youtube.com/watch?v=H61Jr7OzEpw&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=8)
+- [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
+- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
 
 Requirements:
 - Define interfaces to represent the structure of a song including properties like title, artist, duration, and genre.
