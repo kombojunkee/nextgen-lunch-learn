@@ -135,17 +135,7 @@ Here's a plan to get you started:
 - Create a user interface using HTML and CSS for users to interact with the application.
 - Use TypeScript types for function parameters and return types for type safety.
 
-## Challenge 4: Task Tracker (Beginner)
-
-Build a task tracker application using TypeScript where users can manage their tasks, mark them as completed, and organize tasks into different categories.
-
-Requirements:
-Define interfaces to represent the structure of a task including properties like name, description, status, and category.
-Implement a class named TaskTracker to manage the tasks. The class should have methods to add tasks, remove tasks, mark tasks as completed, and display tasks by category.
-Create a user interface where users can interact with the application, add tasks, mark tasks as completed, and organize tasks by category.
-Utilize TypeScript to define types for task properties and function parameters, ensuring type safety.
-
-## Challenge 5: Music Playlist Manager (Advanced)
+## Challenge 4: Music Playlist Manager (Advanced)
 
 Create a music playlist manager application using TypeScript where users can organize their favorite songs into playlists and play them.
 
