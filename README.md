@@ -139,7 +139,6 @@ Join us on the journey to mastering modern web development. Happy coding!
 
 ## Contributors:
 
-Kombo Junkee
-Matay
+- Kombo Junkee
 
 Feel free to contribute to the repository by submitting pull requests, reporting issues, or sharing your insights and experiences with the community. Together, we can make NextGen Lunch and Learn the ultimate resource for mastering the next generation of web development technologies.
