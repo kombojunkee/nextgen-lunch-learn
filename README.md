@@ -118,6 +118,10 @@ To access your content, you need to add the following URL as a CORS origin to yo
 ```
 
 ### Click continue to be taken to the add cors origin page and select Add CORS origin
+![Screenshot 2024-03-18 123630](https://github.com/kombojunkee/nextgen-lunch-learn/assets/134183650/5eed6ed4-d8d8-47e9-af0c-0a5210fe6c5a)
+
+![Screenshot 2024-03-18 124136](https://github.com/kombojunkee/nextgen-lunch-learn/assets/134183650/6dd8e52a-4f9d-45fc-af8e-7181a5a27a8f)
+
 
 ### Now authenticate and you should be all set!
 
