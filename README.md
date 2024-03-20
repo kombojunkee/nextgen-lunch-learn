@@ -14,7 +14,7 @@ You're tasked with creating a Secret Santa gift assignment program using JavaScr
 
 Prerequisites:
 - [Let & Const](https://www.youtube.com/watch?v=tJO4XhZPTHc&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
-- [Template Listers](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
+- [Template Literals](https://www.youtube.com/watch?v=kkP5yji8Vz0&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=3)
 - [Arrow Functions](https://www.youtube.com/watch?v=zag6ItKyPVs&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=2)
 - [Destructuring](https://www.youtube.com/watch?v=cdjpLpYSyfY&list=PLpPleNDMJ989dQlcRIo4iht812THaed89&index=4)
 
